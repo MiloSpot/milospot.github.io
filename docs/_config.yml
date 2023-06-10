@@ -4,7 +4,7 @@ baseurl: ""
 url: "milospot.github.io"
 repository: milospot/milospot.github.io
 
-theme: just-the-docs
+# theme: just-the-docs
 
 remote_theme: just-the-docs/just-the-docs
 

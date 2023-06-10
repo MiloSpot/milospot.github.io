@@ -6,14 +6,14 @@ repository: milospot/milospot.github.io
 
 # theme: just-the-docs
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.5.2
 
 color_scheme: dark
 
 # # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
+  "milospot pages":
+    - "//milospot.github.io"
 
 
 # logo: "/assets/images/just-the-docs.png"
